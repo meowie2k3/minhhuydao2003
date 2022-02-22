@@ -2,7 +2,7 @@
 - 👀 I’m interested in C/C++
 - 🌱 I’m currently learning at university HCMIU
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dmhuy.ityu@gmial.com
+- 📫 How to reach me dmhuy.ityu@gmail.com
 
 <!---
 minhhuydao2003/minhhuydao2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @minhhuydao2003
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... university HCMIU
+- 👀 I’m interested in C/C++
+- 🌱 I’m currently learning at university HCMIU
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... daominhhuy.9a1@gmail.com
+- 📫 How to reach me dmhuy.ityu@gmial.com
 
 <!---
 minhhuydao2003/minhhuydao2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @minhhuydao2003
-- 👀 I’m interested in C/C++, Java, JavaScript, React Native, etc...
+- 👀 I’m interested in C/C++, Java, JavaScript, React Native and Python
 - 🌱 I’m currently learning at university HCMIU
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dmhuy.ityu@gmail.com
